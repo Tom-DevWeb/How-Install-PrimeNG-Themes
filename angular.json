@@ -54,7 +54,40 @@
               }
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/primeflex/primeflex.css",
+              "primeng/resources/primeng.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              {
+                "input": "src/assets/themes/material/material-light/standard/indigo/theme.scss",
+                "bundleName": "material-light",
+                "inject": false
+              },
+              {
+                "input": "src/assets/themes/material/material-dark/standard/indigo/theme.scss",
+                "bundleName": "material-dark",
+                "inject": false
+              },
+              {
+                "input": "src/assets/themes/aura/aura-light/blue/theme.scss",
+                "bundleName": "aura-light",
+                "inject": false
+              },
+              {
+                "input": "src/assets/themes/aura/aura-dark/blue/theme.scss",
+                "bundleName": "aura-dark",
+                "inject": false
+              },
+              {
+                "input": "src/assets/themes/bootstrap4/bootstrap4-light/blue/theme.scss",
+                "bundleName": "bootstrap-light",
+                "inject": false
+              },
+              {
+                "input": "src/assets/themes/bootstrap4/bootstrap4-dark/blue/theme.scss",
+                "bundleName": "bootstrap-dark",
+                "inject": false
+              }
             ],
             "scripts": []
           },

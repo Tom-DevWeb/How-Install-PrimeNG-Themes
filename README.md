@@ -2,6 +2,8 @@
 
 > [!NOTE]
 > Lien de mon article [Ajouter des thèmes PrimeNG](https://blog.tomwebdev.fr/ajouter-des-themes-primeng)
+>
+> Vous pouvez également cloner ce repo pour tester l'implémentation.
 
 ## 🌟 Introduction
 
